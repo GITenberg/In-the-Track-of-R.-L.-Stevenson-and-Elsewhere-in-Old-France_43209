@@ -1,0 +1,33 @@
+_repo: In-the-Track-of-R.-L.-Stevenson-and-Elsewhere-in-Old-France_43209
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hammerton, John Alexander, Sir
+    aliases:
+    - Hammerton, Sir John Alexander
+    - Hammerton, J. A. (John Alexander)
+    birthdate: 1871
+    deathdate: 1949
+    gutenberg_agent_id: '4519'
+    url: http://www.gutenberg.org/2009/agents/4519
+    wikipedia: http://en.wikipedia.org/wiki/John_Alexander_Hammerton
+description: ''
+gutenberg_issued: '2013-07-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43209'
+  lccn: 07038531
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'France -- Description and travel'
+- !lcsh 'Stevenson, Robert Louis, 1850-1894 -- Travel -- France'
+- !lcsh 'Cévennes Mountains (France)'
+title: In the Track of R. L. Stevenson and Elsewhere in Old France
+url: http://www.gutenberg.org/ebooks/43209
